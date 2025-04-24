@@ -1,4 +1,4 @@
-# 🌸 Smart Meal Planner: A Ghibli Culinary Journey 🌸
+# --Smart Meal Planner: A Ghibli Culinary Journey --
 
 Embark on a magical meal-planning adventure inspired by the whimsical world of Studio Ghibli! This JavaFX application, crafted for MCA Semester II at Alliance University, transforms dietary preferences into delightful 7-day meal plans with nutritional insights. Adorned with a serene beige backdrop, vibrant green buttons, and warm brown text, it’s a visual treat completed on April 23, 2025. Explore the full story in our [project report (PDF)](docs/Java_Project_Report.pdf)!
 
