@@ -25,6 +25,6 @@ Ready to cast the spell? Follow these steps:
 4. **Run the Magic**: Right-click, Run As > Java Application, select `MainApp`.
 
 ## Behind the Scenes
-This journey conquered challenges like JSON serialization and module system riddles, blending cutting-edge tech with Ghibli charm. The project is organized into four key domains: GUI design, data management, meal planning logic, and nutritional analysis, each housed in dedicated folders (`nokesh_ui`, `sai_data`, `reddy_logic`, `sagar_analysis`) for a collaborative masterpiece.
+This journey conquered challenges like JSON serialization and module system riddles, blending cutting-edge tech with Ghibli charm. The project is organized into four key domains: GUI design, data management, meal planning logic, and nutritional analysis, each housed in dedicated folders (`nokesh_ui`, `sai_data`, `Sagar_logic`, `satish_analysis`) for a collaborative masterpiece.
 
 🌟 **Star us** if this culinary magic inspires you! 🌟
