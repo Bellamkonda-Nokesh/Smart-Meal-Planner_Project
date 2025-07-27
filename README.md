@@ -167,15 +167,6 @@ The application includes a default meal database with options like:
 - [ ] GitHub Actions CI/CD pipeline
 - [ ] Cross-platform packaging
 
-## 👥 Development Team
-
-| Name | Student ID | Role |
-|------|------------|------|
-| **Bellamkonda Nokesh** | 2411022250087 | Project Lead & GUI Development |
-| **Bala Krishna Vishnu Sai** | 2411022250077 | Data Management |
-| **Sagar N** | 2411022250062 | Meal Planning Logic |
-| **Somula Satish Reddy** | 2411022250113 | Nutritional Analysis |
-
 ## 📚 Learning Outcomes
 
 This project provided hands-on experience with:
